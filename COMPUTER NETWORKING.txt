@@ -1,0 +1,36 @@
+                                                    COMPUTER NETWORKING
+
+INTERNET:
+
+it a network which connects multiples computers across the world.
+
+SERVER:
+
+it as software which provide services to the user or clients(browser)
+
+PORTS:
+ 
+There are 65,535 ports available in total, numbered from 0 to 65535. 
+
+Port | Service
+80 | HTTP (Web)
+443 | HTTPS (Secure Web)
+21 | FTP (File Transfer)
+22 | SSH (Secure Shell)
+25 | SMTP (Email Sending)
+53 | DNS (Domain Name System) 
+
+Well-known ports (0-1023): Standard services (HTTP, FTP, etc.)
+
+Registered ports (1024-49151): Used by software/apps
+
+Dynamic/private ports (49152-65535): Temporary connections
+
+
+TOPOLOGIES:
+
+1.Bus
+2.Star
+3.Tree
+4.Ring
+5.Mesh
