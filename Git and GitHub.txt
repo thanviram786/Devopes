@@ -1,4 +1,14 @@
-Git and GitHub
+GIT AND GITHUB 
+
+
+WHAT IS GIT?
+git is the version control system, used to track history of the code and we can go to older version of the code
+
+WHAT IS GITHUB?
+it is the cloud platform which is used to store code and allow multiple users work on same project.
+
+COMMANDS:
+
 
 1. git init                  -to initialize the git to local repo
 2. git add .                 -to stage the commit in local repo
