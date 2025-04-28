@@ -34,3 +34,33 @@ TOPOLOGIES:
 3.Tree
 4.Ring
 5.Mesh
+
+
+                                                   STRUCTURE OF NETWORKS
+
+OSI MODEL:
+
+Open System Interconnection Model
+
+All People Seem TO Need Data Processing
+
+Application
+Presentation
+Session
+Transport
+Network
+Datalink
+Phsyical
+
+Physical Layer : It deals with the physical connection between devices — literally the hardware that sends and receives raw data (bits).
+
+Data Link Layer (DLL) :The Data Link Layer is responsible for reliable transmission of data between two devices on the same network (local).
+
+It takes raw bits from the Physical Layer and organizes them into frames (small chunks of data).
+
+it devided into 2 sublayers *logical link layer and Media Access Control
+
+Network Layer: it handles the routing and forwarding of data b/w devices that are on diff networks *example for Network layer is GPS like which helps to reach the destination   
+
+
+
