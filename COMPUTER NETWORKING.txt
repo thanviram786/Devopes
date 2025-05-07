@@ -62,5 +62,29 @@ it devided into 2 sublayers *logical link layer and Media Access Control
 
 Network Layer: it handles the routing and forwarding of data b/w devices that are on diff networks *example for Network layer is GPS like which helps to reach the destination   
 
+The Network Layer is responsible for moving data between different networks — it's where routing and IP addressing happen.
+
+It ensures that your data packet goes from the source to the destination, even if they’re in different locations or networks.
+Network Layer = GPS + Address Label + Postal Route
+It makes sure your digital "letter" (packet) travels between cities (networks) and gets to the right address (IP).
+
+Transport layer: which is the layer where data sends to end to end delivery of the data,It ensures that data is sent completely, accurately, and in the correct order.
+
+session layer: The Session Layer is responsible for starting, maintaining, and ending communication sessions between two devices or applications.
+
+presentation layer: where data will be compressed, translation and encryption/decryption 
+
+Application layer:The Application Layer is where network services and apps interact directly with the user.
+It doesn't create applications, but provides the interface and services needed to use the network.
+
+                                     SUMMARY of OSI MODEL
+
+7. Application — You interact with it (e.g., browser)
+6. Presentation — Formats & secures data (e.g., encryption)
+5. Session — Manages sessions/connections
+4. Transport — Ensures complete, ordered delivery (e.g., TCP)
+3. Network — Routing (e.g., IP address)
+2. Data Link — Frames, MAC address
+1. Physical — Cables, bits, signals
 
 
