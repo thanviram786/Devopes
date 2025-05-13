@@ -87,4 +87,41 @@ It doesn't create applications, but provides the interface and services needed t
 2. Data Link — Frames, MAC address
 1. Physical — Cables, bits, signals
 
+      PROTOCOLS
 
+#TCP/IP 
+   *HTTP
+   *DHCP
+   *FTP
+   *SMTP for sending mail
+   *pop3/IMAP for receive the mail
+   *SSH
+   *VNC
+#TELNET
+#UDP
+
+
+#IP ADDRESS: An ip address is a unique number assigned to every device connected to a network,
+      IPv4 (Most common) it has 4.3 billion addresses ex:192.168.0.10
+      IPv6 (For the future) it is hexadecimal separated by colons and it has unlimited address
+#PORT: A port is like a door or gate inside your computer or server that allows data to enter or leave. it helps your computer know which application or service the data should go to
+
+ IP address : House address
+ Port number: Room number
+
+#SOCKET: A socket is like a plug point that allows twp devices to connect and communicate over a network.
+
+#### HTTP protocol
+   Hyper Text Trasfter Protocol it is the protocol used by web browses and webserver to communicate over the internet.
+  HTTP used to send request and get a response from the server.
+METHOD: GET    req
+        POST   send
+        PUT    Update
+        DELETE Delete
+#### SMTP Protocol:
+   Simple Mail Transfer Protocol
+it is a protocol used to send emails from one server to another over the internet 
+   Default port number is port 25
+#### POP3: post office protocol used to receive the email. default port number is port 110
+#### IMAP: Internet message access protocol. it is the protocol used to acccess and image emails stored on a mail server.
+ unlike pop3,IMAP keep the emails on the server and allows you to view and maange from the multiple devices. port no 143
